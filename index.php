@@ -86,7 +86,7 @@
                                 <p>A young, ambitious and passionate IT professional based in Mumbai, India. I feel my love for design and code, when I was a sophomore in High School; It was then when it became clear what I wanted to do for a living. I pursued my career at the N.M.F.C College in Information Technology and started the never-ending journey of becoming a web developer along with sharpening my eye for design. I enjoy writing clean code for websites and reading entrepreneurship stories. While not coding, I love listening music and watch Web series. </p>
 
                                 <div class="buttons"> 
-                                    <a href="resume.pdf" target="_blank" download="Harpreet Singh [Front-end Developer, 5.2 years, Datamatics Global Services LTD.]" class="btn download-resume">Download Resume</a>
+                                    <a href="resume.docx" target="_blank" download="Harpreet Singh [Front-end Developer, 5.2 years, Datamatics Global Services LTD.]" class="btn download-resume">Download Resume</a>
                                 </div>
 
                             </div>
