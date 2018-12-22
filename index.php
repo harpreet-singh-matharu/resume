@@ -322,8 +322,11 @@
                             <p>Tired of reading resume? Bored of skimming long paragraphs? My audio resume will walk you through my personal as well professional growth.
                             </p>
                             <div class="rec-audio">
-                              <audio controls="" id="audioResume">
-                                  <source src="audio/Audio Resume.mp3" type="audio/mp3">
+								<audio controls="" id="audioResume"> 
+									<source
+										src="assets/audio/audio-resume.3gpp"
+										type='video/3gpp; codecs="mp4v.20.8, samr"'>
+									</source>
                                       Your browser does not support the audio element.
                               </audio>
                           </div>
