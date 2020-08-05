@@ -1079,7 +1079,7 @@ h6 {
 }
 
 .page-title span i {
-    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.10);
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.30);
     border-radius: 50%;
     box-shadow: 0 0 0 30px transparent;
     display: inline-block;
@@ -1538,7 +1538,7 @@ h6 {
 }
 
 .skills .sec-divider {
-    background: url("../img/icons/ninja.svg") no-repeat scroll center center transparent;
+    color: #3f3f46;
     display: block;
     height: 52px;
     margin: 40px auto 20px;
@@ -2247,7 +2247,12 @@ figure.effect-ming:hover img {
 
 .location h4 a{
 	color: #f3f3f3;
-	text-decoration:none;
+    text-decoration:none;
+    transition: 0.4s all;
+}
+
+.location h4 a:hover {
+    color: #2e2e2e;
 }
 
 .social .social-profiles {
@@ -2311,7 +2316,7 @@ figure.effect-ming:hover img {
 }
 
 #map img {
-    max-width: inherit !important
+    width: 100%;
 }
 
 .form-container {
@@ -2935,7 +2940,7 @@ figure.effect-ming:hover .featured-image-container {
 
     .page-title h2 {
         font-family: 'Roboto Condensed', sans-serif;
-        font-size: 2.25em;
+        font-size: 3em;
         font-weight: 700;
         letter-spacing: 1px;
         line-height: 1.5em;
@@ -2944,7 +2949,7 @@ figure.effect-ming:hover .featured-image-container {
     }
 
     .page-title p {
-        font-size: 1.15em;
+        font-size: 1.8em;
         font-family: 'Roboto Condensed', sans-serif;
         font-style: italic;
         line-height: 1.2;
@@ -3013,7 +3018,7 @@ figure.effect-ming:hover .featured-image-container {
 @media only screen and (min-width: 1024px) {
     .page-container .page-close {
         background-image:url("../img/icons/icon-close-desktop.svg");
-		background-color: #ffffffab;
+		background-color: #ffffffc9;
 		border-radius: 3px;
     }
 
